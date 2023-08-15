@@ -74,7 +74,7 @@ let hundredQ = [
     ["Before he was President, Eisenhower was a general. What war was he in?", "World War II"],
     ["During the Cold War, what was the main concern of the United States?", "Communism"],
     ["What movement tried to end racial discrimination?", "Civil rights (movement)"],
-    ["What did Martin Luther King, Jr. do?", "ought for civil rights, worked for equality for all Americans"],
+    ["What did Martin Luther King, Jr. do?", "Fought for civil rights, worked for equality for all Americans"],
     ["What major event happened on September 11, 2001, in the U.s.?", "Terrorists attacked the United States."],
     ["Name one Native American tribe in the United States", "Cherokee Sioux, Navajo, Chippewa, Choctaw, Pueblo, Apache, Iroquois, Creek, Blackfeet, Seminole, Cheyenne, Arawak, Shawnee, Mohegan, Huron, Oneida, Lakota, Crow, Teton, Hopi, Inuit"],
     ["Name one of the two longest rivers in the United States", "Missouri (River), Mississippi (River)"],
